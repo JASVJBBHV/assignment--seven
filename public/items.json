@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A classic 35mm rangefinder camera popular with collectors and film photographers.",
+      "currentBidPrice": 8000,
+      "timeLeft": "2",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co.com/Gg1r0Pg/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "Iconic vintage electric guitar known for its sharp double-cutaway body and rock legacy.",
+      "currentBidPrice": 3200,
+      "timeLeft": "2",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co.com/BVWh207R/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "First-ever Macintosh computer, revolutionized personal computing in the 1980s.",
+      "currentBidPrice": 2250,
+      "timeLeft": "2",
+      "bidsCount": 16,
+      "image": "https://i.ibb.co.com/35mN0Gc5/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Iconic diving watch with automatic movement and timeless design.",
+      "currentBidPrice": 1050,
+      "timeLeft": "2",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/F4cNXvrw/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Rare collector’s edition of a classic American novel from the Jazz Age.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/W8GWhjc/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "An iconic piece of modern furniture design from Charles and Ray Eames.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/5hytMhqr/Bid6-min.png"
+    }
+   
+  ]
+  
